@@ -13,8 +13,6 @@ body{
   text-align: center;
 }
 
-
-
 .Home {
   margin: 0;
   padding: 0;
@@ -219,10 +217,6 @@ li .link:hover{
   right: 0;
   top: -30px;
 }
-
-
-
-
 
 
 /* skil; section end */
@@ -504,7 +498,6 @@ nav{
   align-items: center;
   top:6em;
   margin-top: 30px;
-  /* align-items: flex-start; */
 }
 
 .work .work-content{

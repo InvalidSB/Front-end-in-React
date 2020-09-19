@@ -29,7 +29,7 @@ export default
             },
             {
                 id: 3,
-                title: 'Web-Application',
+                title: 'Web-App for ORG',
                 service: 'Project Two',
                 imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReqSV_zg_te4aWSSAJwykpgh3uuUyWi7JbiA&usqp=CAU",
                 url: '#'
